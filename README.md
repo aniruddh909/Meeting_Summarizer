@@ -1,4 +1,4 @@
-# Meeting Assistant
+# Meeting Summarizer
 
 An AI-powered meeting assistant that transcribes audio recordings of meetings and provides intelligent summaries and action items.
 
