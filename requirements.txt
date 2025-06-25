@@ -11,4 +11,5 @@ transformers==4.36.2
 torch==2.1.2
 sentencepiece==0.1.99
 python-dotenv==1.0.0
-aiofiles==23.2.1 
+aiofiles==23.2.1
+setuptools<81
