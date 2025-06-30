@@ -5,7 +5,7 @@ python-dotenv==1.0.0
 httpx==0.25.1
 openai-whisper==20231117
 numpy==1.24.3
-torch==2.1.1
+torch==2.1.2
 ffmpeg-python==0.2.0
 pydantic==2.4.2
 pydantic-settings==2.0.3
@@ -23,7 +23,6 @@ passlib[bcrypt]==1.7.4
 openai-whisper==20231117
 ffmpeg-python==0.2.0
 transformers==4.36.2
-torch==2.1.2
 sentencepiece==0.1.99
 python-dotenv==1.0.0
 aiofiles==23.2.1
