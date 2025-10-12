@@ -2,7 +2,7 @@
 
 An AI-powered meeting assistant that transcribes audio recordings of meetings and provides intelligent summaries and action items.
 
-## 🚀 Features
+##  Features
 
 - **Audio Transcription**: Convert meeting recordings to text using OpenAI's Whisper model
 - **Smart Summarization**: Generate concise summaries using Hugging Face's flan-t5-large model
@@ -71,21 +71,21 @@ The application will be available at:
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8000
 
-## 📝 API Endpoints
+##  API Endpoints
 
 - `POST /api/v1/process`: Process audio file (transcribe and summarize)
 - `POST /api/v1/transcribe`: Transcribe audio to text
 - `POST /api/v1/summarize`: Generate summary and action items
 - `GET /api/v1/meetings`: Get meeting history
 
-## 🔒 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the backend directory with:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -97,7 +97,7 @@ OPENAI_API_KEY=your_api_key_here
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI Whisper for audio transcription
 - Hugging Face for the summarization model
