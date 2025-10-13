@@ -33,7 +33,7 @@ An AI-powered meeting assistant that transcribes audio recordings of meetings an
 - npm or yarn
 - FFmpeg (for audio processing)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Backend Setup
 
