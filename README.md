@@ -2,7 +2,7 @@
 
 An AI-powered meeting assistant that transcribes audio recordings of meetings and provides intelligent summaries and action items.
 
-Frontend <img width="2025" height="640" alt="image" src="https://github.com/user-attachments/assets/690d3744-20cd-4957-9296-3ce409b3729f" />
+ <img width="2025" height="640" alt="image" src="https://github.com/user-attachments/assets/690d3744-20cd-4957-9296-3ce409b3729f" />
 
 
 ##  Features
